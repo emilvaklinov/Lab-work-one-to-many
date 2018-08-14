@@ -12,7 +12,7 @@ public class Director {
     private String name;
     private List<Film> films;
 
-    public Director() { }
+    public Director(String mark_modjelevsky) { }
 
 
     public Director(int id, String name, List<Film> films) {
